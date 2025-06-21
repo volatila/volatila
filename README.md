@@ -1,6 +1,6 @@
 ## Hi there, I'm volatila 👋
 
-I'm a 16-year-old developer and creator known as **Volatila**—a fusion of `volatile` and `lolita`. As a coder and, my work ranges from intricate Minecraft physics engines to system-level integrations.
+I'm a 16 year old developer and creator going by the stage name **Volatila** - a portmanteau of "volatile" and "lolita". I specialize in **experimental development** and **high-performance systems development**.
 
 🔧 **What I build:**
 - 🚀 High-performance memory allocators like **VlHeap**.
@@ -9,6 +9,11 @@ I'm a 16-year-old developer and creator known as **Volatila**—a fusion of `vol
 - 🖥️ Pure server-side ray tracing without client mods.
 - 🔥 Innovative frameworks like **FNI (Fast Native Interface)**, boosting Java-C++ interactions significantly.
 - 🎵 Real-time Song Request System via Bilibili Live Danmaku.
+
+## 🌙 About me
+My name is Volatila, a fusion of "volatile" and "lolita" —
+My Original character about myself as a Neko who refuses to grow up, obsessively clinging to an innocent, fragile form.  Personality is complex and unpredictable.
+`A manic obsession with code, an extreme devotion to performance.`
 
 ✨ **Technologies I love:**
 - Java, Kotlin, C++, C#, and OpenCL
