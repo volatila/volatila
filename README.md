@@ -2,7 +2,7 @@
 
 I'm a 16 year old developer and creator going by the stage name **Volatila** - a portmanteau of "volatile" and "lolita". I specialize in **experimental development** and **high-performance systems development**.
 
-🔧 **What I build:**
+### 🔧 **What I build:**
 - 🚀 High-performance memory allocators like **VlHeap**.
 - 🧊 Physics systems such as **BulletX** - a GPU-accelerated Bullet extension.
 - 🎮 Creative Minecraft plugins: **FluentUI**, a pure-server-side animated UI library, including effects like "fade-in-out, interpolation".
@@ -10,22 +10,22 @@ I'm a 16 year old developer and creator going by the stage name **Volatila** - a
 - 🔥 Innovative frameworks like **FNI (Fast Native Interface)**, boosting Java-C++ interactions significantly.
 - 🎵 Real-time Song Request System via Bilibili Live Danmaku.
 
-## 🌙 About me
+### 🌙 About me
 My name is Volatila, a fusion of "volatile" and "lolita" —
 My Original character about myself as a Neko who refuses to grow up, obsessively clinging to an innocent, fragile form.  Personality is complex and unpredictable.
 `A manic obsession with code, an extreme devotion to performance.`
 
-✨ **Technologies I love:**
+### ✨ **Technologies I love:**
 - Java, Kotlin, C++, C#, and OpenCL
 - Native integration and extreme performance optimization
 - Artisic Creation
 
-🌟 **Let's connect:**  
+### 🌟 **Let's connect:**  
 Feel free to explore my repositories, star what you find interesting, or reach out for collaborations!
 
 ---
 
-📫 **Get in touch:**
+#### 📫 **Get in touch:**
 - [Email](nekodays@163.com) | [Bilibili](https://space.bilibili.com/484097652)
 <!--
 **volatila/volatila** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
