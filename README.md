@@ -13,7 +13,7 @@ I'm a 16 year old developer and creator going by the stage name **Volatila** - a
 ### 🌙 About me
 My name is Volatila, a fusion of "volatile" and "lolita" —
 My Original character about myself as a Neko who refuses to grow up, obsessively clinging to an innocent, fragile form.  Personality is complex and unpredictable.
-`A manic obsession with code, an extreme devotion to performance.`
+#### `A manic obsession with code, an extreme devotion to performance.`
 
 ### ✨ **Technologies I love:**
 - Java, Kotlin, C++, C#, and OpenCL
