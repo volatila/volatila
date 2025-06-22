@@ -1,4 +1,4 @@
-## Hi there, I'm volatila | 我是 Volatila👋
+# Hi there, I'm volatila | 我是 Volatila👋
 
 I'm a 16 year old developer and creator going by the stage name **Volatila** - a portmanteau of "volatile" and "lolita". I specialize in **experimental development** and **high-performance systems development**. <br>
 我是一名 16 岁的开发者，我的名字**Volatila**来自于"volatile"与"lolita"融合而来，我专注与**实验性**与**高性能**开发
