@@ -1,4 +1,4 @@
-## 🧃 Hi there! I'm Volatila! ヾ(๑╹ヮ╹๑)ﾉ”
+## 🧃 Hi there! I'm wiyuka! ヾ(๑╹ヮ╹๑)ﾉ” (Not `Wiyuka`)
 
 ### 🎯 About Me
 - 16 years old... `qvq`
