@@ -1,7 +1,7 @@
 ## 🧃 Hi there! I'm wiyuka! ヾ(๑╹ヮ╹๑)ﾉ” (Not `Wiyuka`)
 
 ### 🎯 About Me
-- 16 years old... `qvq`
+- 15 years old... `qvq`
 - Passionate about:  
   🎨 Painting • 💻 Coding • 🍻 Fun with friends  
 - Fascinated by:  
